@@ -1,4 +1,4 @@
-基于prim和bfs实现的随机迷宫生成及求解
+基于prim和bfs实现的随机迷宫生成及求解（可视化基于easyx库）
 
 项目内分为bfs、主程序、prim三个cpp文件
 
